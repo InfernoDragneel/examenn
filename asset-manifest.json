@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/InfernoDragneel.github.io/examenn/static/css/main.71644d7a.css",
-    "main.js": "/InfernoDragneel.github.io/examenn/static/js/main.7ecd9f38.js",
-    "static/js/787.c3744916.chunk.js": "/InfernoDragneel.github.io/examenn/static/js/787.c3744916.chunk.js",
-    "index.html": "/InfernoDragneel.github.io/examenn/index.html",
-    "main.71644d7a.css.map": "/InfernoDragneel.github.io/examenn/static/css/main.71644d7a.css.map",
-    "main.7ecd9f38.js.map": "/InfernoDragneel.github.io/examenn/static/js/main.7ecd9f38.js.map",
-    "787.c3744916.chunk.js.map": "/InfernoDragneel.github.io/examenn/static/js/787.c3744916.chunk.js.map"
+    "main.css": "/InfernoDragneel.github.io/original/static/css/main.71644d7a.css",
+    "main.js": "/InfernoDragneel.github.io/original/static/js/main.6b5a0687.js",
+    "static/js/787.ae93a40a.chunk.js": "/InfernoDragneel.github.io/original/static/js/787.ae93a40a.chunk.js",
+    "index.html": "/InfernoDragneel.github.io/original/index.html",
+    "main.71644d7a.css.map": "/InfernoDragneel.github.io/original/static/css/main.71644d7a.css.map",
+    "main.6b5a0687.js.map": "/InfernoDragneel.github.io/original/static/js/main.6b5a0687.js.map",
+    "787.ae93a40a.chunk.js.map": "/InfernoDragneel.github.io/original/static/js/787.ae93a40a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71644d7a.css",
-    "static/js/main.7ecd9f38.js"
+    "static/js/main.6b5a0687.js"
   ]
 }
